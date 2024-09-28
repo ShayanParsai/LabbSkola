@@ -1,0 +1,14 @@
+C:\Users\Razer\source\repos\Labb-Shayan\bin\Debug\net8.0\Labb-Shayan.exe
+C:\Users\Razer\source\repos\Labb-Shayan\bin\Debug\net8.0\Labb-Shayan.deps.json
+C:\Users\Razer\source\repos\Labb-Shayan\bin\Debug\net8.0\Labb-Shayan.runtimeconfig.json
+C:\Users\Razer\source\repos\Labb-Shayan\bin\Debug\net8.0\Labb-Shayan.dll
+C:\Users\Razer\source\repos\Labb-Shayan\bin\Debug\net8.0\Labb-Shayan.pdb
+C:\Users\Razer\source\repos\Labb-Shayan\obj\Debug\net8.0\Labb-Shayan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razer\source\repos\Labb-Shayan\obj\Debug\net8.0\Labb-Shayan.AssemblyInfoInputs.cache
+C:\Users\Razer\source\repos\Labb-Shayan\obj\Debug\net8.0\Labb-Shayan.AssemblyInfo.cs
+C:\Users\Razer\source\repos\Labb-Shayan\obj\Debug\net8.0\Labb-Shayan.csproj.CoreCompileInputs.cache
+C:\Users\Razer\source\repos\Labb-Shayan\obj\Debug\net8.0\Labb-Shayan.dll
+C:\Users\Razer\source\repos\Labb-Shayan\obj\Debug\net8.0\refint\Labb-Shayan.dll
+C:\Users\Razer\source\repos\Labb-Shayan\obj\Debug\net8.0\Labb-Shayan.pdb
+C:\Users\Razer\source\repos\Labb-Shayan\obj\Debug\net8.0\Labb-Shayan.genruntimeconfig.cache
+C:\Users\Razer\source\repos\Labb-Shayan\obj\Debug\net8.0\ref\Labb-Shayan.dll
